@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1696624594 source:c:\users\dell\onedrive - al azhar university\desktop\bank )\bank project\bank.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bank.h"
+
+1696626945 source:c:\users\dell\onedrive - al azhar university\desktop\bank )\bank project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bank.h"
+
+1696602101 c:\users\dell\onedrive - al azhar university\desktop\bank )\bank project\bank.h
+
